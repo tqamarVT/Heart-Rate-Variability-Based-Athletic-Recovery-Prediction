@@ -1,1 +1,1 @@
-# Heart-Rate-Variability-BasedAthletic-Recovery-Prediction
+# Heart-Rate-Variability-Based-Athletic-Recovery-Prediction
